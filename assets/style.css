@@ -53,7 +53,7 @@ a:hover{
 
 .wp-block.inverse .figure img {
   width: 100%;
-  border-bottom: 15px;
+  margin: 15px;
 }
 
 .wp-block-info-over.left {
