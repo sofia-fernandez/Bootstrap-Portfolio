@@ -83,7 +83,7 @@ a:hover{
 }
 
 .wp-block-info-over.left h2 a {
-  padding: 10px 10px 10px 10px;
+  padding: 10px 0 10px 10px;
   margin: 0;
   font-size: 16px;
   text-transform: capitalize;
@@ -93,7 +93,6 @@ a:hover{
   color: #fff;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
-  right: 0;
 }
 
 .wp-block-info-over.left h2 .label {
