@@ -93,6 +93,7 @@ a:hover{
   color: #fff;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
+  right: 0;
 }
 
 .wp-block-info-over.left h2 .label {
