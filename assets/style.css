@@ -115,6 +115,7 @@ a:hover{
 
 .label {
   border-radius: 0;
+  right:0;
 }
 
 /* Sticky footer styles
