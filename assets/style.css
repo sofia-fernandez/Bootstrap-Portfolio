@@ -58,6 +58,7 @@ a:hover{
   position: absolute;
   bottom: 55px;
   left: 0;
+  right: 0;
 }
 
 .wp-block-info-over {
@@ -97,8 +98,7 @@ a:hover{
 .wp-block-info-over.left h2 .label {
   position: absolute;
   bottom: -30px;
-  left: 0;
-  right: 0;
+  left: 15px;
   padding: .5em .6em .5em;
 }
 
