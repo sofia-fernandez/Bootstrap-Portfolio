@@ -1,6 +1,6 @@
 /* Social Media CSS Style */
 
-.style_github {
+.stylegithub {
 	background: grey;
 	color: white;
 	font-size: 60px;
@@ -10,7 +10,7 @@
 	text-decoration: none;
 }
 
-.style_linkedin {
+.stylelinkedin {
 	background: #0077B5;
 	color: white;
 	font-size: 60px;
@@ -19,7 +19,7 @@
 	border-radius: 6px;
 	text-decoration: none;
 }
-.style_stackoverflow {
+.stylestackoverflow {
 	background: orange;
 	color: white;
 	font-size: 60px;
